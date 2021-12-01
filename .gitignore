@@ -1,0 +1,6 @@
+*.sig
+*_cv25519*.pgp*
+*_rsa3k*.pgp*
+*_rsa4k*.pgp*
+/.commits
+/logs
